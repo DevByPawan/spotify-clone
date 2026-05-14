@@ -20,3 +20,11 @@ A modern Spotify-inspired music player UI built using HTML, CSS, and JavaScript.
 
 ## 👨‍💻 Author
 Pawan Agrahari
+
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Music Player
+![Player](screenshots/player.png)
