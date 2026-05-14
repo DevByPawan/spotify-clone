@@ -25,6 +25,3 @@ Pawan Agrahari
 
 ### Home Page
 ![Home](screenshots/home.png)
-
-### Music Player
-![Player](screenshots/player.png)
